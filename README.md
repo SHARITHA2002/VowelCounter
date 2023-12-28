@@ -1,4 +1,4 @@
-# VowelCounter
+# VowelCounter 🔢
 
 - Vowel Counter is a project made using HTML,CSS & JavaScript
 - Projects helps to understand the concept of using the JS functions better 
